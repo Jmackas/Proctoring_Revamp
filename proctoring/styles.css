@@ -1,6 +1,7 @@
 /*********************
 Accordion
 **********************/
+
 button.accordion {
     background-color: #eee;
     color: #444;
@@ -15,7 +16,8 @@ button.accordion {
     font-family: ubuntu;
 }
 
-button.accordion.active, button.accordion:hover {
+button.accordion.active,
+button.accordion:hover {
     background-color: #ccc;
 }
 
@@ -39,6 +41,7 @@ div.panel {
     transition: max-height 0.2s ease-out;
 }
 
+
 /*********************
 Universal Elements
 *********************/
@@ -55,5 +58,3 @@ img {
 li {
     margin: 55px 0 0 0;
 }
-
-

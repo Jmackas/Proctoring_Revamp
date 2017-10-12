@@ -329,42 +329,74 @@
         <entry key="WinTrackHeight" val="62"/>
        </MetaData>
        <Medias>
+        <Caption id="149" start="66" duration="564" scalar="1/1" mediaStart="0/1" mediaDuration="564/1" maxMediaDuration="9.22337e+018"  allowTrimOut="1"  >
+         <Parameters>
+          <Parameter id="150"  name="captionData">
+           <Keyframes>
+           <Keyframe id="151"  time="-9999999/1" value="{43,How to enable Webcam and Microphone access.,0}" leadInLength="0/1"  />
+           <Keyframe id="152"  time="274/1" value="{59,Go to the Chrome settings by clicking the 3 &#xa;vertical dots.,0}" leadInLength="0/1"  />
+           <Keyframe id="153"  time="349/1" value="{18,Select &apos;Settings&apos;.,0}" leadInLength="0/1"  />
+           <Keyframe id="154"  time="444/1" value="{57,Scroll to the bottom of the window and press &#xa;&apos;Advanced&apos;.,0}" leadInLength="0/1"  />
+           </Keyframes>
+          </Parameter>
+          <Parameter id="155"  name="toc"/>
+          <Parameter id="156"  name="quiz"/>
+         </Parameters>
+         <Attributes>
+         </Attributes>
+         <MetaData>
+          <entry key="WinSubProjectDisplayName" val=""/>
+         </MetaData>
+        </Caption>
+       </Medias>
+      </GenericTrack>
+      <GenericTrack id="157"  >
+       <Attributes>
+        <Attribute id="158" value="" name="ident"/>
+        <Attribute id="159" value="0" name="audioMuted"/>
+        <Attribute id="160" value="0" name="videoHidden"/>
+       </Attributes>
+       <MetaData>
+        <entry key="IsLocked" val="False"/>
+        <entry key="WinTrackHeight" val="62"/>
+       </MetaData>
+       <Medias>
        </Medias>
       </GenericTrack>
      </Tracks>
     </GenericMixer>
-   <CaptionAttributes id="149"  >
-    <Attribute id="150" value="1" name="captionsEnabled"/>
-    <Attribute id="151" value="Arial" name="captionsFontName"/>
-    <Attribute id="152" value="36" name="captionsFontSize"/>
-    <Attribute id="153" value="(0,0,0,255)" name="captionsBackgroundColor"/>
-    <Attribute id="154" value="(255,255,255,255)" name="captionsForegroundColor"/>
-    <Attribute id="155" value="en" name="lang"/>
-    <Attribute id="156" value="0" name="captionsAlignment"/>
-    <Attribute id="157" value="1" name="captionsDefaultFontSize"/>
-    <Attribute id="158" value="0.5" name="captionsOpacity"/>
-    <Attribute id="159" value="1" name="captionsBackgroundEnabled"/>
-    <Attribute id="160" value="1" name="captionsBackgroundOnlyAroundText"/>
+   <CaptionAttributes id="161"  >
+    <Attribute id="162" value="1" name="captionsEnabled"/>
+    <Attribute id="163" value="Arial" name="captionsFontName"/>
+    <Attribute id="164" value="36" name="captionsFontSize"/>
+    <Attribute id="165" value="(0,0,0,255)" name="captionsBackgroundColor"/>
+    <Attribute id="166" value="(255,255,255,255)" name="captionsForegroundColor"/>
+    <Attribute id="167" value="en" name="lang"/>
+    <Attribute id="168" value="0" name="captionsAlignment"/>
+    <Attribute id="169" value="1" name="captionsDefaultFontSize"/>
+    <Attribute id="170" value="0.5" name="captionsOpacity"/>
+    <Attribute id="171" value="1" name="captionsBackgroundEnabled"/>
+    <Attribute id="172" value="1" name="captionsBackgroundOnlyAroundText"/>
    </CaptionAttributes>
    <Parameters>
-    <VectorParam id="161"  name="eyePosition">
-     <InterpolatingParam id="162" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
-     <InterpolatingParam id="163" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
-     <InterpolatingParam id="164" interp="linr"  time="0/1" value="3000" leadInLength="0/1"  />
+    <VectorParam id="173"  name="eyePosition">
+     <InterpolatingParam id="174" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
+     <InterpolatingParam id="175" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
+     <InterpolatingParam id="176" interp="linr"  time="0/1" value="3000" leadInLength="0/1"  />
     </VectorParam>
-    <VectorParam id="165"  name="eyeLookAtPosition">
-     <InterpolatingParam id="166" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
-     <InterpolatingParam id="167" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
-     <InterpolatingParam id="168" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
+    <VectorParam id="177"  name="eyeLookAtPosition">
+     <InterpolatingParam id="178" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
+     <InterpolatingParam id="179" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
+     <InterpolatingParam id="180" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
     </VectorParam>
-    <VectorParam id="169"  name="eyeUpVector">
-     <InterpolatingParam id="170" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
-     <InterpolatingParam id="171" interp="linr"  time="0/1" value="1" leadInLength="0/1"  />
-     <InterpolatingParam id="172" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
+    <VectorParam id="181"  name="eyeUpVector">
+     <InterpolatingParam id="182" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
+     <InterpolatingParam id="183" interp="linr"  time="0/1" value="1" leadInLength="0/1"  />
+     <InterpolatingParam id="184" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
     </VectorParam>
-    <InterpolatingParam id="173" interp="linr"  time="0/1" value="0.356185883" leadInLength="0/1"  name="fov"/>
-    <InterpolatingParam id="174" interp="linr"  time="0/1" value="1.5" leadInLength="0/1"  name="nearClipDistance"/>
-    <InterpolatingParam id="175" interp="linr"  time="0/1" value="6000" leadInLength="0/1"  name="farClipDistance"/>
+    <InterpolatingParam id="185" interp="linr"  time="0/1" value="0.356185883" leadInLength="0/1"  name="fov"/>
+    <InterpolatingParam id="186" interp="linr"  time="0/1" value="1.5" leadInLength="0/1"  name="nearClipDistance"/>
+    <InterpolatingParam id="187" interp="linr"  time="0/1" value="6000" leadInLength="0/1"  name="farClipDistance"/>
    </Parameters>
   </Timeline>
  </Project>

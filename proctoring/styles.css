@@ -48,22 +48,20 @@ Universal Elements
 
 
 /* overall body styling */
-
 body {
     font-family: 'Ubuntu', sans-serif;
     font-size: 120%;
+    color: #232323;
 }
 
 
 /* allow images to stand alone */
-
 img {
     border: 1px solid lightgray;
 }
 
 
 /* spacing added below images */
-
 li {
     margin: 55px 0 0 0;
 }

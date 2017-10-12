@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<Project_Data Version="8.00">
+<Project_Settings>
+<ProfileName></ProfileName>
+<ProjectWidth>0</ProjectWidth>
+<ProjectHeight>0</ProjectHeight>
+<IsCustomProject>1</IsCustomProject>
+<SavedProjectSettings>0</SavedProjectSettings>
+<LastFlashTemplate>-1</LastFlashTemplate>
+</Project_Settings>
+
+
+<AutoSaveFile>C:\Users\James\AppData\Local\TechSmith\Camtasia Studio\8.0\Auto-Saves\mainb6c4db4.autosave.camproj</AutoSaveFile>
+
+<ProjectID>42D5D9A0-FB83-4278-AA59-94676976C84B</ProjectID>
+
+<PowerPointProject>0</PowerPointProject>
+
+<PowerPointFilename></PowerPointFilename>
+
+
+<Project_Notes>
+</Project_Notes>
+
+<Project_MetaData>
+<Project_MetaData_Object>
+<FieldArrayKey>8</FieldArrayKey>
+<Value>main</Value>
+</Project_MetaData_Object>
+<Project_MetaData_Object>
+<FieldArrayKey>13</FieldArrayKey>
+<Value>2017-10-12 12:49:55 PM</Value>
+</Project_MetaData_Object>
+<Project_MetaData_Object>
+<FieldArrayKey>16</FieldArrayKey>
+<Value>ENU</Value>
+</Project_MetaData_Object>
+</Project_MetaData>
+
+<CSMLData>
+<GoProject id="1" version="3.0" >
+ <Project id="2" editRate="30/1" version="3.0" >
+  <Author></Author>
+  <Comment></Comment>
+  <System></System>
+  <SourceBin id="3"  >
+    <Source id="4" src="C:\Users\James\Documents\Github\proctoring_remotelab_project\proctoring\video tutorials\Webcam+Microphone access\capture-4.camrec" lastMod="20171012T022240" rect="(0,0,1366,768)" >
+      <SourceTrack range="(0,731666667)" type="0" editRate="10000000/1" trackRect="(0,0,1366,768)" sampleRate="10000000/333333" bitDepth="24" numChannels="0" filename="capture-4.camrec!Screen_Stream.avi" metaData="capture-4.camrec!Events.dat;capture-4.camrec!manifest.camxml;" />
+    </Source>
+  </SourceBin>
+  <Timeline id="5"  >
+   <Attributes>
+    <Attribute id="6" value="800" name="width"/>
+    <Attribute id="7" value="600" name="height"/>
+    <Attribute id="8" value="(0,0,0,255)" name="backgroundColor"/>
+   </Attributes>
+    <GenericMixer id="9"  name="Unified Mixer">
+     <MetaData>
+      <entry key="MixerType" val="TimelineMixer"/>
+     </MetaData>
+     <Tracks>
+      <GenericTrack id="10"  >
+       <Attributes>
+        <Attribute id="11" value="" name="ident"/>
+        <Attribute id="12" value="0" name="audioMuted"/>
+        <Attribute id="13" value="0" name="videoHidden"/>
+       </Attributes>
+       <MetaData>
+        <entry key="IsLocked" val="False"/>
+        <entry key="WinTrackHeight" val="62"/>
+       </MetaData>
+       <Medias>
+       </Medias>
+      </GenericTrack>
+      <GenericTrack id="14"  >
+       <Attributes>
+        <Attribute id="15" value="" name="ident"/>
+        <Attribute id="16" value="0" name="audioMuted"/>
+        <Attribute id="17" value="0" name="videoHidden"/>
+       </Attributes>
+       <MetaData>
+        <entry key="IsLocked" val="False"/>
+        <entry key="WinTrackHeight" val="62"/>
+       </MetaData>
+       <Medias>
+       </Medias>
+      </GenericTrack>
+      <GenericTrack id="18"  >
+       <Attributes>
+        <Attribute id="19" value="" name="ident"/>
+        <Attribute id="20" value="0" name="audioMuted"/>
+        <Attribute id="21" value="0" name="videoHidden"/>
+       </Attributes>
+       <MetaData>
+        <entry key="IsLocked" val="False"/>
+        <entry key="WinTrackHeight" val="62"/>
+       </MetaData>
+       <Medias>
+       </Medias>
+      </GenericTrack>
+     </Tracks>
+    </GenericMixer>
+   <CaptionAttributes id="22"  >
+    <Attribute id="23" value="1" name="captionsEnabled"/>
+    <Attribute id="24" value="Arial" name="captionsFontName"/>
+    <Attribute id="25" value="20" name="captionsFontSize"/>
+    <Attribute id="26" value="(0,0,0,255)" name="captionsBackgroundColor"/>
+    <Attribute id="27" value="(255,255,255,255)" name="captionsForegroundColor"/>
+    <Attribute id="28" value="en" name="lang"/>
+    <Attribute id="29" value="0" name="captionsAlignment"/>
+    <Attribute id="30" value="1" name="captionsDefaultFontSize"/>
+    <Attribute id="31" value="0.5" name="captionsOpacity"/>
+    <Attribute id="32" value="1" name="captionsBackgroundEnabled"/>
+    <Attribute id="33" value="1" name="captionsBackgroundOnlyAroundText"/>
+   </CaptionAttributes>
+   <Parameters>
+    <VectorParam id="34"  name="eyePosition">
+     <InterpolatingParam id="35" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
+     <InterpolatingParam id="36" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
+     <InterpolatingParam id="37" interp="linr"  time="0/1" value="3000" leadInLength="0/1"  />
+    </VectorParam>
+    <VectorParam id="38"  name="eyeLookAtPosition">
+     <InterpolatingParam id="39" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
+     <InterpolatingParam id="40" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
+     <InterpolatingParam id="41" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
+    </VectorParam>
+    <VectorParam id="42"  name="eyeUpVector">
+     <InterpolatingParam id="43" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
+     <InterpolatingParam id="44" interp="linr"  time="0/1" value="1" leadInLength="0/1"  />
+     <InterpolatingParam id="45" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
+    </VectorParam>
+    <InterpolatingParam id="46" interp="linr"  time="0/1" value="0" leadInLength="0/1"  name="fov"/>
+    <InterpolatingParam id="47" interp="linr"  time="0/1" value="1.5" leadInLength="0/1"  name="nearClipDistance"/>
+    <InterpolatingParam id="48" interp="linr"  time="0/1" value="6000" leadInLength="0/1"  name="farClipDistance"/>
+   </Parameters>
+  </Timeline>
+ </Project>
+</GoProject>
+</CSMLData>
+
+</Project_Data>

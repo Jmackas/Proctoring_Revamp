@@ -43,7 +43,8 @@ Universal Elements
 *********************/
 
 body {
-    font-family: calibri;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 150%;
 }
 
 img {

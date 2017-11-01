@@ -9,3 +9,14 @@ h1 {
 tr {
     font-size: 125%;
 }
+
+/* Button default colour */
+.btn-default {
+    background: #df691a;
+    border-radius: 2px;
+}
+
+/* Button default colour hover */
+.btn-default:hover {
+    background: #af5316;
+}

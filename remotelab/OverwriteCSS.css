@@ -1,6 +1,11 @@
 /* Link to remote labs https://electromeet.com/RemoteLabWeb */
 
 /* Header size increase of title 'List of available remote labs' */
-span {
+h1 {
     font-size: 300%;
+}
+
+/* Increase the size of the overall font */
+tr {
+    font-size: 125%;
 }

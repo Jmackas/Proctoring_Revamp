@@ -12,11 +12,11 @@ tr {
 
 /* Button default colour */
 .btn-default {
-    background: #df691a;
-    border-radius: 2px;
+    background: #df691a !important;
+    border-radius: 2px !important;
 }
 
 /* Button default colour hover */
 .btn-default:hover {
-    background: #af5316;
+    background: #af5316 !important;
 }

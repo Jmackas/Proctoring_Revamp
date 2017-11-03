@@ -1,4 +1,3 @@
-
 Please do not save anything personal or sensitive when accessing the remote laboratories.
 
 Data exported from the remote laboratories runs the potential of experiencing infection via malicious third party entities. We cannot guarantee the integrity of any data that originates/passes through the laboratories.

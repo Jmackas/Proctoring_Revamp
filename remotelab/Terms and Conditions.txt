@@ -1,9 +1,10 @@
-<ul>
 
-    <li>Please do not save anything personal or sensitive when accessing the remote laboratories.</li>
-    <li>Data exported from the remote laboratories runs the potential of experiencing infection via malicious third party entities. We cannot guarantee the integrity of any data that originates/passes through the laboratories.</li>
-    <li>Do not install any third party software on a laboratory computer without the permission of an EIT staff member.</li>
-    <li>Do not copy and potential malicious files or software onto the remote labs. Any attempt to do so could result in punitive measures.</li>
-    <li>If you notice anything unusual with the laboratory, please contact an EIT staff member immediately. </li>
+Please do not save anything personal or sensitive when accessing the remote laboratories.
 
-</ul>
+Data exported from the remote laboratories runs the potential of experiencing infection via malicious third party entities. We cannot guarantee the integrity of any data that originates/passes through the laboratories.
+
+Do not install any third party software on a laboratory computer without the permission of an EIT staff member.
+
+Do not copy and potential malicious files or software onto the remote labs. Any attempt to do so could result in punitive measures.
+
+If you notice anything unusual with the laboratory, please contact an EIT staff member immediately. 
